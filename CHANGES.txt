@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.1+imio(unreleased)
+3.1+imio(2017-05-10)
 ------------------
 
 - #5: Ignore None values in UnIndex instead of raising a TypeError.
